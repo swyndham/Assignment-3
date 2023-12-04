@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    min-width: 100vw;
+    max-height: 900px;
+    font-family: "Kanit", sans-serif;
+}
+
+.content-area {
+    margin: auto;
+    padding: 0 10px;
+}
+
+
+.cls-1, .cls-2, .cls-3 {
+    fill: #fff;
+    stroke-width: 4px;
+  }
+
+  .cls-2, .cls-3 {
+    stroke: #000;
+    stroke-miterlimit: 10;
+  }
