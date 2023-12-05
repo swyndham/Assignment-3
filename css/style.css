@@ -12,6 +12,7 @@ body {
 .content-area {
     margin: auto;
     padding: 0 10px;
+    cursor: pointer;
 }
 
 
